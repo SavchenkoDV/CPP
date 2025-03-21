@@ -58,5 +58,3 @@ A C++ project combining complex concepts such as file management, data structure
 
 ---
 
-## About the Project
-
