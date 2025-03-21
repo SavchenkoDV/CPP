@@ -56,5 +56,4 @@ A C++ application implementing operator overloading and custom data structures. 
 
 A C++ project combining complex concepts such as file management, data structures, and advanced object-oriented programming. Solves real-world problems using multiple C++ features.
 
----
 
